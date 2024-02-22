@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="https://github.com/ALI-RUBASS/User-Authentification-HTML-Bootstrap-Javascript./blob/main/display.png" alt="Display Image"/>
+
 
     <h1>SignIn and SignUp Forms</h1>
     <p>This repository contains a simple HTML/CSS/JavaScript implementation of sign-in and sign-up forms using Bootstrap 4.5.2.</p>
