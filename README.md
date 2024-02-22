@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Repository README.md</title>
 </head>
 <body>
     <h1>SignIn and SignUp Forms</h1>
@@ -36,7 +35,5 @@
             <code>git push origin feature/add-new-feature</code></li>
         <li>Finally, open a pull request from your forked repository to the original repository, describing your changes in detail.</li>
     </ol>
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 </body>
 </html>
